@@ -1,0 +1,177 @@
+# Banco de Dados Acervo Técnico - Tabela Completa
+
+| CAT        | Obra                           | Ano  | Serviço               | Quantidade | Cidade                       | Unidade |
+| ---------- | ------------------------------ | ---- | --------------------- | ---------- | ---------------------------- | ------- |
+| CAT-001-01 | Projeto Preá                   | 2012 | Terraplenagem         | 892        | Salvador                     | m³      |
+| CAT-001-02 | Projeto Preá                   | 2012 | Pavimentação          | 571        | Salvador                     | m³      |
+| CAT-001-03 | Projeto Preá                   | 2012 | Pavimentação          | 198        | Salvador                     | m³      |
+| CAT-001-04 | Projeto Preá                   | 2012 | Drenagem              | 926        | Salvador                     | m       |
+| CAT-001-05 | Projeto Preá                   | 2012 | Paisagismo            | 49         | Salvador                     | m²      |
+| CAT-001-06 | Projeto Preá                   | 2012 | Estruturas Metálicas  | 670        | Salvador                     | t       |
+| CAT-001-07 | Projeto Preá                   | 2012 | Instalações Elétricas | 310        | Salvador                     | un      |
+| CAT-001-08 | Projeto Preá                   | 2012 | Sinalização           | 508        | Salvador                     | un      |
+| CAT-001-09 | Projeto Preá                   | 2012 | Fundações             | 820        | Salvador                     | m³      |
+| CAT-001-10 | Projeto Preá                   | 2012 | Instalações Elétricas | 507        | Salvador                     | un      |
+| CAT-002-01 | Complexo Tatu-Bola             | 2016 | Instalações Elétricas | 553        | Curitiba                     | un      |
+| CAT-002-02 | Complexo Tatu-Bola             | 2016 | Estruturas Metálicas  | 659        | Curitiba                     | t       |
+| CAT-002-03 | Complexo Tatu-Bola             | 2016 | Fundações             | 533        | Curitiba                     | m³      |
+| CAT-002-04 | Complexo Tatu-Bola             | 2016 | Drenagem              | 610        | Curitiba                     | m       |
+| CAT-002-05 | Complexo Tatu-Bola             | 2016 | Fundações             | 475        | Curitiba                     | m³      |
+| CAT-002-06 | Complexo Tatu-Bola             | 2016 | Estruturas Metálicas  | 615        | Curitiba                     | t       |
+| CAT-002-07 | Complexo Tatu-Bola             | 2016 | Montagem de Painéis   | 565        | Curitiba                     | un      |
+| CAT-002-08 | Complexo Tatu-Bola             | 2016 | Montagem de Painéis   | 434        | Curitiba                     | un      |
+| CAT-002-09 | Complexo Tatu-Bola             | 2016 | Pavimentação          | 402        | Curitiba                     | m³      |
+| CAT-002-10 | Complexo Tatu-Bola             | 2016 | Fundações             | 64         | Curitiba                     | m³      |
+| CAT-003-01 | Empreendimento Mocó            | 2011 | Revestimentos         | 327        | Rio de Janeiro               | m²      |
+| CAT-003-02 | Empreendimento Mocó            | 2011 | Drenagem              | 701        | Rio de Janeiro               | m       |
+| CAT-003-03 | Empreendimento Mocó            | 2011 | Montagem de Painéis   | 262        | Rio de Janeiro               | un      |
+| CAT-003-04 | Empreendimento Mocó            | 2011 | Sinalização           | 261        | Rio de Janeiro               | un      |
+| CAT-003-05 | Empreendimento Mocó            | 2011 | Estruturas Metálicas  | 413        | Rio de Janeiro               | t       |
+| CAT-003-06 | Empreendimento Mocó            | 2011 | Pavimentação          | 776        | Rio de Janeiro               | m³      |
+| CAT-003-07 | Empreendimento Mocó            | 2011 | Paisagismo            | 469        | Rio de Janeiro               | m²      |
+| CAT-003-08 | Empreendimento Mocó            | 2011 | Instalações Elétricas | 535        | Rio de Janeiro               | un      |
+| CAT-003-09 | Empreendimento Mocó            | 2011 | Instalações Elétricas | 863        | Rio de Janeiro               | un      |
+| CAT-003-10 | Empreendimento Mocó            | 2011 | Pavimentação          | 228        | Rio de Janeiro               | m³      |
+| CAT-004-01 | Centro Carcará                 | 2011 | Paisagismo            | 588        | Curitiba                     | m²      |
+| CAT-004-02 | Centro Carcará                 | 2011 | Terraplenagem         | 963        | Curitiba                     | m³      |
+| CAT-004-03 | Centro Carcará                 | 2011 | Pavimentação          | 44         | Curitiba                     | m³      |
+| CAT-004-04 | Centro Carcará                 | 2011 | Instalações Elétricas | 167        | Curitiba                     | un      |
+| CAT-004-05 | Centro Carcará                 | 2011 | Montagem de Painéis   | 358        | Curitiba                     | un      |
+| CAT-004-06 | Centro Carcará                 | 2011 | Sinalização           | 526        | Curitiba                     | un      |
+| CAT-004-07 | Centro Carcará                 | 2011 | Paisagismo            | 385        | Curitiba                     | m²      |
+| CAT-004-08 | Centro Carcará                 | 2011 | Fundações             | 381        | Curitiba                     | m³      |
+| CAT-004-09 | Centro Carcará                 | 2011 | Terraplenagem         | 621        | Curitiba                     | m³      |
+| CAT-004-10 | Centro Carcará                 | 2011 | Drenagem              | 536        | Curitiba                     | m       |
+| CAT-005-01 | Torre Seriema                  | 2018 | Pavimentação          | 889        | Manaus                       | m³      |
+| CAT-005-02 | Torre Seriema                  | 2018 | Instalações Elétricas | 844        | Manaus                       | un      |
+| CAT-005-03 | Torre Seriema                  | 2018 | Fundações             | 110        | Manaus                       | m³      |
+| CAT-005-04 | Torre Seriema                  | 2018 | Fundações             | 492        | Manaus                       | m³      |
+| CAT-005-05 | Torre Seriema                  | 2018 | Sinalização           | 415        | Manaus                       | un      |
+| CAT-005-06 | Torre Seriema                  | 2018 | Terraplenagem         | 186        | Manaus                       | m³      |
+| CAT-005-07 | Torre Seriema                  | 2018 | Paisagismo            | 295        | Manaus                       | m²      |
+| CAT-005-08 | Torre Seriema                  | 2018 | Revestimentos         | 199        | Manaus                       | m²      |
+| CAT-005-09 | Torre Seriema                  | 2018 | Pavimentação          | 372        | Manaus                       | m³      |
+| CAT-005-10 | Torre Seriema                  | 2018 | Pavimentação          | 443        | Manaus                       | m³      |
+| CAT-006-01 | Estação Teju                   | 2018 | Pavimentação          | 800        | Goiânia                      | m³      |
+| CAT-006-02 | Estação Teju                   | 2018 | Montagem de Painéis   | 527        | Goiânia                      | un      |
+| CAT-006-03 | Estação Teju                   | 2018 | Revestimentos         | 62         | Goiânia                      | m²      |
+| CAT-006-04 | Estação Teju                   | 2018 | Estruturas Metálicas  | 448        | Goiânia                      | t       |
+| CAT-006-05 | Estação Teju                   | 2018 | Paisagismo            | 315        | Goiânia                      | m²      |
+| CAT-006-06 | Estação Teju                   | 2018 | Drenagem              | 81         | Goiânia                      | m       |
+| CAT-006-07 | Estação Teju                   | 2018 | Montagem de Painéis   | 596        | Goiânia                      | un      |
+| CAT-006-08 | Estação Teju                   | 2018 | Drenagem              | 592        | Goiânia                      | m       |
+| CAT-006-09 | Estação Teju                   | 2018 | Montagem de Painéis   | 546        | Goiânia                      | un      |
+| CAT-006-10 | Estação Teju                   | 2018 | Terraplenagem         | 19         | Goiânia                      | m³      |
+| CAT-007-01 | Parque Sagui                   | 2023 | Montagem de Painéis   | 230        | Manaus                       | un      |
+| CAT-007-02 | Parque Sagui                   | 2023 | Paisagismo            | 419        | Manaus                       | m²      |
+| CAT-007-03 | Parque Sagui                   | 2023 | Estruturas Metálicas  | 307        | Manaus                       | t       |
+| CAT-007-04 | Parque Sagui                   | 2023 | Montagem de Painéis   | 390        | Manaus                       | un      |
+| CAT-007-05 | Parque Sagui                   | 2023 | Montagem de Painéis   | 120        | Manaus                       | un      |
+| CAT-007-06 | Parque Sagui                   | 2023 | Pavimentação          | 505        | Manaus                       | m³      |
+| CAT-007-07 | Parque Sagui                   | 2023 | Instalações Elétricas | 270        | Manaus                       | un      |
+| CAT-007-08 | Parque Sagui                   | 2023 | Fundações             | 354        | Manaus                       | m³      |
+| CAT-007-09 | Parque Sagui                   | 2023 | Pavimentação          | 230        | Manaus                       | m³      |
+| CAT-007-10 | Parque Sagui                   | 2023 | Sinalização           | 208        | Manaus                       | un      |
+| CAT-008-01 | Residencial Gambá              | 2021 | Montagem de Painéis   | 951        | Curitiba                     | un      |
+| CAT-008-02 | Residencial Gambá              | 2021 | Instalações Elétricas | 562        | Curitiba                     | un      |
+| CAT-008-03 | Residencial Gambá              | 2021 | Fundações             | 788        | Curitiba                     | m³      |
+| CAT-008-04 | Residencial Gambá              | 2021 | Revestimentos         | 433        | Curitiba                     | m²      |
+| CAT-008-05 | Residencial Gambá              | 2021 | Paisagismo            | 120        | Curitiba                     | m²      |
+| CAT-008-06 | Residencial Gambá              | 2021 | Revestimentos         | 368        | Curitiba                     | m²      |
+| CAT-008-07 | Residencial Gambá              | 2021 | Instalações Elétricas | 403        | Curitiba                     | un      |
+| CAT-008-08 | Residencial Gambá              | 2021 | Fundações             | 587        | Curitiba                     | m³      |
+| CAT-008-09 | Residencial Gambá              | 2021 | Sinalização           | 569        | Curitiba                     | un      |
+| CAT-008-10 | Residencial Gambá              | 2021 | Terraplenagem         | 395        | Curitiba                     | m³      |
+| CAT-009-01 | Edifício Tamanduá              | 2011 | Instalações Elétricas | 207        | Manaus                       | un      |
+| CAT-009-02 | Edifício Tamanduá              | 2011 | Revestimentos         | 766        | Manaus                       | m²      |
+| CAT-009-03 | Edifício Tamanduá              | 2011 | Revestimentos         | 942        | Manaus                       | m²      |
+| CAT-009-04 | Edifício Tamanduá              | 2011 | Paisagismo            | 976        | Manaus                       | m²      |
+| CAT-009-05 | Edifício Tamanduá              | 2011 | Estruturas Metálicas  | 482        | Manaus                       | t       |
+| CAT-009-06 | Edifício Tamanduá              | 2011 | Montagem de Painéis   | 199        | Manaus                       | un      |
+| CAT-009-07 | Edifício Tamanduá              | 2011 | Estruturas Metálicas  | 852        | Manaus                       | t       |
+| CAT-009-08 | Edifício Tamanduá              | 2011 | Drenagem              | 879        | Manaus                       | m       |
+| CAT-009-09 | Edifício Tamanduá              | 2011 | Drenagem              | 553        | Manaus                       | m       |
+| CAT-009-10 | Edifício Tamanduá              | 2011 | Montagem de Painéis   | 425        | Manaus                       | un      |
+| CAT-010-01 | Conjunto Jararaca              | 2021 | Pavimentação          | 26         | Goiânia                      | m³      |
+| CAT-010-02 | Conjunto Jararaca              | 2021 | Sinalização           | 611        | Goiânia                      | un      |
+| CAT-010-03 | Conjunto Jararaca              | 2021 | Pavimentação          | 52         | Goiânia                      | m³      |
+| CAT-010-04 | Conjunto Jararaca              | 2021 | Pavimentação          | 172        | Goiânia                      | m³      |
+| CAT-010-05 | Conjunto Jararaca              | 2021 | Montagem de Painéis   | 166        | Goiânia                      | un      |
+| CAT-010-06 | Conjunto Jararaca              | 2021 | Estruturas Metálicas  | 48         | Goiânia                      | t       |
+| CAT-010-07 | Conjunto Jararaca              | 2021 | Montagem de Painéis   | 343        | Goiânia                      | un      |
+| CAT-010-08 | Conjunto Jararaca              | 2021 | Paisagismo            | 204        | Goiânia                      | m²      |
+| CAT-010-09 | Conjunto Jararaca              | 2021 | Estruturas Metálicas  | 672        | Goiânia                      | t       |
+| CAT-010-10 | Conjunto Jararaca              | 2021 | Montagem de Painéis   | 84         | Goiânia                      | un      |
+| CAT-011-01 | Campus Gralha                  | 2018 | Revestimentos         | 790        | Goiânia                      | m²      |
+| CAT-011-02 | Campus Gralha                  | 2018 | Montagem de Painéis   | 279        | Goiânia                      | un      |
+| CAT-011-03 | Campus Gralha                  | 2018 | Estruturas Metálicas  | 144        | Goiânia                      | t       |
+| CAT-011-04 | Campus Gralha                  | 2018 | Estruturas Metálicas  | 206        | Goiânia                      | t       |
+| CAT-011-05 | Campus Gralha                  | 2018 | Drenagem              | 974        | Goiânia                      | m       |
+| CAT-011-06 | Campus Gralha                  | 2018 | Paisagismo            | 332        | Goiânia                      | m²      |
+| CAT-011-07 | Campus Gralha                  | 2018 | Terraplenagem         | 355        | Goiânia                      | m³      |
+| CAT-011-08 | Campus Gralha                  | 2018 | Sinalização           | 691        | Goiânia                      | un      |
+| CAT-011-09 | Campus Gralha                  | 2018 | Fundações             | 977        | Goiânia                      | m³      |
+| CAT-011-10 | Campus Gralha                  | 2018 | Estruturas Metálicas  | 882        | Goiânia                      | t       |
+| CAT-012-01 | Condomínio Veado-Catingueiro   | 2020 | Instalações Elétricas | 365        | Fortaleza                    | un      |
+| CAT-012-02 | Condomínio Veado-Catingueiro   | 2020 | Pavimentação          | 465        | Fortaleza                    | m³      |
+| CAT-012-03 | Condomínio Veado-Catingueiro   | 2020 | Paisagismo            | 763        | Fortaleza                    | m²      |
+| CAT-012-04 | Condomínio Veado-Catingueiro   | 2020 | Fundações             | 21         | Fortaleza                    | m³      |
+| CAT-012-05 | Condomínio Veado-Catingueiro   | 2020 | Revestimentos         | 735        | Fortaleza                    | m²      |
+| CAT-012-06 | Condomínio Veado-Catingueiro   | 2020 | Sinalização           | 408        | Fortaleza                    | un      |
+| CAT-012-07 | Condomínio Veado-Catingueiro   | 2020 | Paisagismo            | 404        | Fortaleza                    | m²      |
+| CAT-012-08 | Condomínio Veado-Catingueiro   | 2020 | Drenagem              | 510        | Fortaleza                    | m       |
+| CAT-012-09 | Condomínio Veado-Catingueiro   | 2020 | Fundações             | 668        | Fortaleza                    | m³      |
+| CAT-012-10 | Condomínio Veado-Catingueiro   | 2020 | Revestimentos         | 702        | Fortaleza                    | m²      |
+| CAT-013-01 | Conjunto Drummond              | 2015 | Pavimentação          | 957        | Fortaleza                    | m³      |
+| CAT-013-02 | Conjunto Drummond              | 2015 | Instalações Elétricas | 998        | Fortaleza                    | un      |
+| CAT-013-03 | Conjunto Drummond              | 2015 | Estruturas Metálicas  | 614        | Fortaleza                    | t       |
+| CAT-013-04 | Conjunto Drummond              | 2015 | Terraplenagem         | 114        | Fortaleza                    | m³      |
+| CAT-013-05 | Conjunto Drummond              | 2015 | Sinalização           | 100        | Fortaleza                    | un      |
+| CAT-013-06 | Conjunto Drummond              | 2015 | Paisagismo            | 579        | Fortaleza                    | m²      |
+| CAT-013-07 | Conjunto Drummond              | 2015 | Instalações Elétricas | 684        | Fortaleza                    | un      |
+| CAT-013-08 | Conjunto Drummond              | 2015 | Revestimentos         | 959        | Fortaleza                    | m²      |
+| CAT-013-09 | Conjunto Drummond              | 2015 | Revestimentos         | 561        | Fortaleza                    | m²      |
+| CAT-013-10 | Conjunto Drummond              | 2015 | Estruturas Metálicas  | 79         | Fortaleza                    | t       |
+| CAT-014-01 | Complexo Cecília Meireles      | 2011 | Paisagismo            | 567        | Recife                       | m²      |
+| CAT-014-02 | Complexo Cecília Meireles      | 2011 | Terraplenagem         | 485        | Recife                       | m³      |
+| CAT-014-03 | Complexo Cecília Meireles      | 2011 | Sinalização           | 342        | Recife                       | un      |
+| CAT-014-04 | Complexo Cecília Meireles      | 2011 | Estruturas Metálicas  | 428        | Recife                       | t       |
+| CAT-014-05 | Complexo Cecília Meireles      | 2011 | Drenagem              | 247        | Recife                       | m       |
+| CAT-014-06 | Complexo Cecília Meireles      | 2011 | Montagem de Painéis   | 925        | Recife                       | un      |
+| CAT-014-07 | Complexo Cecília Meireles      | 2011 | Revestimentos         | 296        | Recife                       | m²      |
+| CAT-014-08 | Complexo Cecília Meireles      | 2011 | Terraplenagem         | 552        | Recife                       | m³      |
+| CAT-014-09 | Complexo Cecília Meireles      | 2011 | Montagem de Painéis   | 142        | Recife                       | un      |
+| CAT-014-10 | Complexo Cecília Meireles      | 2011 | Drenagem              | 614        | Recife                       | m       |
+| CAT-015-01 | Centro Castro Alves            | 2021 | Sinalização           | 501        | Salvador                     | un      |
+| CAT-015-02 | Centro Castro Alves            | 2021 | Sinalização           | 891        | Salvador                     | un      |
+| CAT-015-03 | Centro Castro Alves            | 2021 | Pavimentação          | 918        | Salvador                     | m³      |
+| CAT-015-04 | Centro Castro Alves            | 2021 | Estruturas Metálicas  | 761        | Salvador                     | t       |
+| CAT-015-05 | Centro Castro Alves            | 2021 | Terraplenagem         | 775        | Salvador                     | m³      |
+| CAT-015-06 | Centro Castro Alves            | 2021 | Instalações Elétricas | 313        | Salvador                     | un      |
+| CAT-015-07 | Centro Castro Alves            | 2021 | Montagem de Painéis   | 991        | Salvador                     | un      |
+| CAT-015-08 | Centro Castro Alves            | 2021 | Fundações             | 28         | Salvador                     | m³      |
+| CAT-015-09 | Centro Castro Alves            | 2021 | Instalações Elétricas | 505        | Salvador                     | un      |
+| CAT-015-10 | Centro Castro Alves            | 2021 | Drenagem              | 154        | Salvador                     | m       |
+| CAT-016-01 | Edifício Manuel Bandeira       | 2011 | Pavimentação          | 681        | Porto Alegre                 | m³      |
+| CAT-016-02 | Edifício Manuel Bandeira       | 2011 | Pavimentação          | 247        | Porto Alegre                 | m³      |
+| CAT-016-03 | Edifício Manuel Bandeira       | 2011 | Drenagem              | 640        | Porto Alegre                 | m       |
+| CAT-016-04 | Edifício Manuel Bandeira       | 2011 | Instalações Elétricas | 967        | Porto Alegre                 | un      |
+| CAT-016-05 | Edifício Manuel Bandeira       | 2011 | Revestimentos         | 886        | Porto Alegre                 | m²      |
+| CAT-016-06 | Edifício Manuel Bandeira       | 2011 | Pavimentação          | 880        | Porto Alegre                 | m³      |
+| CAT-016-07 | Edifício Manuel Bandeira       | 2011 | Drenagem              | 739        | Porto Alegre                 | m       |
+| CAT-016-08 | Edifício Manuel Bandeira       | 2011 | Revestimentos         | 278        | Porto Alegre                 | m²      |
+| CAT-016-09 | Edifício Manuel Bandeira       | 2011 | Drenagem              | 281        | Porto Alegre                 | m       |
+| CAT-016-10 | Edifício Manuel Bandeira       | 2011 | Pavimentação          | 476        | Porto Alegre                 | m³      |
+| CAT-017-01 | Parque João Cabral             | 2023 | Drenagem              | 779        | Manaus                       | m       |
+| CAT-017-02 | Parque João Cabral             | 2023 | Revestimentos         | 751        | Manaus                       | m²      |
+| CAT-017-03 | Parque João Cabral             | 2023 | Instalações Elétricas | 599        | Manaus                       | un      |
+| CAT-017-04 | Parque João Cabral             | 2023 | Revestimentos         | 717        | Manaus                       | m²      |
+| CAT-017-05 | Parque João Cabral             | 2023 | Fundações             | 317        | Manaus                       | m³      |
+| CAT-017-06 | Parque João Cabral             | 2023 | Drenagem              | 700        | Manaus                       | m       |
+| CAT-017-07 | Parque João Cabral             | 2023 | Montagem de Painéis   | 999        | Manaus                       | un      |
+| CAT-017-08 | Parque João Cabral             | 2023 | Drenagem              | 952        | Manaus                       | m       |
+| CAT-017-09 | Parque João Cabral             | 2023 | Revestimentos         | 191        | Manaus                       | m²      |
+| CAT-017-10 | Parque João Cabral             | 2023 | Revestimentos         | 341        | Manaus                       | m²      |
+| CAT-018-01 | Residencial Vinícius de Moraes | 2023 | Pavimentação          | 113        | Fortaleza                    | m³      |
+| CAT-018-02 | Residencial Vinícius de Moraes | 2023 | Paisagismo            | 249        | Fortaleza                    | m²      |
+| CAT-018-03 | Residencial Vinícius de Moraes | 2023 | Meio Fio              | 500        | Fortaleza                    | m       |
