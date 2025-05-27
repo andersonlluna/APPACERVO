@@ -58,3 +58,11 @@
 | 48 | 17/04/2025 | Purificador de Água  | Eletrodomésticos | 6          | 399,90        | 2.399,40    | Carla Rodrigues   | Nordeste     | Márcia Lima     | Boleto           | Entregue    |
 | 49 | 18/04/2025 | Estante Modular      | Móveis           | 2          | 1.199,90      | 2.399,80    | Bruno Fernandes   | Centro-Oeste | Roberto Alves   | Financiamento    | Em trânsito |
 | 50 | 19/04/2025 | Mousepad Gamer XXL   | Periféricos      | 20         | 99,90         | 1.998,00    | Amanda Silva      | Norte        | Juliana Martins | PIX              | Entregue    |
+| 43 | 12/04/2025 | Home Theater         | Eletrônicos      | 1          | 2.199,00      | 2.199,00    | Cristiano Pinto   | Nordeste     | Márcia Lima     | PIX              | Entregue    |
+| 44 | 13/04/2025 | Lava e Seca          | Eletrodomésticos | 1          | 3.499,00      | 3.499,00    | Jéssica Campos    | Centro-Oeste | Roberto Alves   | Financiamento    | Em trânsito |
+| 45 | 14/04/2025 | Escrivaninha Gamer   | Móveis           | 3          | 799,90        | 2.399,70    | Alexandre Costa   | Norte        | Juliana Martins | Cartão Crédito   | Entregue    |
+| 46 | 15/04/2025 | Processador Intel    | Periféricos      | 2          | 1.899,00      | 3.798,00    | Natália Santos    | Sudeste      | Carlos Santos   | PIX              | Processando |
+| 47 | 16/04/2025 | Notebook Lenovo      | Eletrônicos      | 4          | 2.799,00      | 11.196,00   | Eduardo Moura     | Sul          | Ana Pereira     | Cartão Crédito   | Entregue    |
+| 48 | 17/04/2025 | Purificador de Água  | Eletrodomésticos | 6          | 399,90        | 2.399,40    | Carla Rodrigues   | Nordeste     | Márcia Lima     | Boleto           | Entregue    |
+| 49 | 18/04/2025 | Estante Modular      | Móveis           | 2          | 1.199,90      | 2.399,80    | Bruno Fernandes   | Centro-Oeste | Roberto Alves   | Financiamento    | Em trânsito |
+| 50 | 19/04/2025 | Mousepad Gamer XXL   | Periféricos      | 20         | 99,90         | 1.998,00    | Amanda Silva      | Norte        | Juliana Martins | PIX              | Entregue    |
