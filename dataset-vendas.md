@@ -20,3 +20,11 @@
 | 18 | 18/03/2025 | Tablet Android       | Eletrônicos    | 5          | 1.299,00      | 6.495,00    | Carla Oliveira    | Nordeste    | Márcia Lima    | Cartão Crédito   | Entregue    |
 | 19 | 19/03/2025 | Ventilador de Teto   | Eletrodomésticos| 4          | 349,90        | 1.399,60    | Marcos Costa      | Centro-Oeste| Roberto Alves  | Boleto           | Cancelado   |
 | 20 | 20/03/2025 | HD Externo 2TB       | Periféricos    | 6          | 399,90        | 2.399,40    | Juliana Pereira   | Norte       | Juliana Martins| PIX              | Entregue    |
+| 13 | 13/03/2025 | Estante de Livros    | Móveis         | 2          | 459,90        | 919,80      | Eduardo Santos    | Nordeste    | Márcia Lima    | Boleto           | Entregue    |
+| 14 | 14/03/2025 | Smart TV 55"         | Eletrônicos    | 3          | 3.199,00      | 9.597,00    | Paula Ferreira    | Centro-Oeste| Roberto Alves  | Financiamento    | Em trânsito |
+| 15 | 15/03/2025 | Liquidificador       | Eletrodomésticos| 7          | 179,90        | 1.259,30    | Gustavo Almeida   | Norte       | Juliana Martins| PIX              | Entregue    |
+| 16 | 16/03/2025 | Webcam HD            | Periféricos    | 15         | 199,90        | 2.998,50    | Beatriz Gomes     | Sudeste     | Carlos Santos  | Cartão Crédito   | Entregue    |
+| 17 | 17/03/2025 | Sofá 3 Lugares       | Móveis         | 1          | 2.499,00      | 2.499,00    | Roberto Silva     | Sul         | Ana Pereira    | Financiamento    | Processando |
+| 18 | 18/03/2025 | Tablet Android       | Eletrônicos    | 5          | 1.299,00      | 6.495,00    | Carla Oliveira    | Nordeste    | Márcia Lima    | Cartão Crédito   | Entregue    |
+| 19 | 19/03/2025 | Ventilador de Teto   | Eletrodomésticos| 4          | 349,90        | 1.399,60    | Marcos Costa      | Centro-Oeste| Roberto Alves  | Boleto           | Cancelado   |
+| 20 | 20/03/2025 | HD Externo 2TB       | Periféricos    | 6          | 399,90        | 2.399,40    | Juliana Pereira   | Norte       | Juliana Martins| PIX              | Entregue    |
